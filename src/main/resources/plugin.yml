@@ -1,0 +1,5 @@
+name: TntNuke
+version: ${project.version}
+main: com.servidoresspace.TntNuke
+commands:
+ tntnuke:
